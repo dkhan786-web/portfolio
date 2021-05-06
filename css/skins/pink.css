@@ -1,0 +1,32 @@
+
+
+
+.blog .blog-item-inner .blog-info .blog-tags a,
+.lightbox .lightbox-controls .prev-item .pr,
+.lightbox .lightbox-controls .next-item .pr,
+body.dark .portfolio .portfolio-filter button.active,
+.portfolio .portfolio-filter button.active,
+.service .service-item .service-item-inner .icon .c,
+body.dark .aside .nav-item li a:hover,
+body.dark .aside .nav-item li a.active,
+.aside .nav-item li a:hover,
+.aside .nav-item li a.active,
+.aside .aside-icon .as:hover{
+	color: #797979;
+}
+.blog .blog-item-inner .blog-img .blog-date,
+.service .service-item .service-item-inner:hover .icon,
+.btn,
+.section-title h2::after,
+.section-title h2::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a{
+	background-color: #797979;
+}
+
+
+
+
+
